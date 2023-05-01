@@ -1,0 +1,138 @@
+body {
+    /* Old browsers */
+    /*--background: #141E30;
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(-45deg, #39005a, #bf44f0);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /*background: linear-gradient(-45deg, #eb07d8, #ff048e);*/
+    /*background-image: url("https://cdn.discordapp.com/attachments/913244633440587838/1098243277137907762/BANNER.gif");*/
+    background-size: contain;
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+   
+
+    .site-title {
+      background-image: url("https://cdn.discordapp.com/attachments/913244633440587838/1098243277137907762/BANNER.gif");
+      background-size: contain;
+      background-origin: border-box;
+      color: white;
+      text-shadow: 3px 3px 3px magenta;
+      font-family: "Lucida Bright";
+      font-size: 64px;
+      text-align: center;
+    }
+
+    .ixam-tag {
+      font-family: serif;
+      font-size: 60px;
+      font-weight: bold;
+      text-align: center;      
+      color: white;
+      border: 2px solid whitesmoke;
+      border-radius: 50%;
+    }
+
+    li {
+      color: rgb(247, 246, 246);
+      background-color: rgb(0, 0, 0);
+      border: 2px solid white;
+      text-align: center;
+      padding: 10px;
+      display: inline-block;
+    }
+
+    th {
+      
+    }
+
+    .styled {
+      border: 0;
+      line-height: 2.5;
+      padding: 0 20px;
+      font-size: 1rem;
+      text-align: center;
+      color: #fff;
+      text-shadow: 1px 1px 1px #000;
+      border-radius: 10px;
+      background-color: rgb(66, 19, 236);
+      background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+      box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+  }
+  
+  .styled:hover {
+      background-color: rgb(252, 246, 246);
+  }
+  
+  .styled:active {
+      box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6), inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+  }
+
+   #Socials {
+     color:black;
+     text-align: center;
+     font-family: Impact;
+    }
+
+    #last {
+      background-image: url("https://cdn.discordapp.com/attachments/1078406420724199484/1098049425487704085/image.png");
+    }
+
+  
+
+
+    #About {
+      background-image: url('https://cdn.discordapp.com/attachments/1078406420724199484/1100297486159069184/image.png');
+      z-index: 1;
+    }
+    #LEO-Dep {
+      background-image: url("https://cdn.discordapp.com/attachments/1099418238686859274/1101571161608945674/Screenshot_2023-03-19_112943.png");
+      background-size: contain;
+    }
+    #pob {
+      background-image: url('https://cdn.discordapp.com/attachments/1078406420724199484/1085329055546609694/image.png');
+    }
+    #Criminal-Life {
+      background-image: url('https://cdn.discordapp.com/attachments/1078406420724199484/1100253466309443664/download_49.png');
+
+    }
+    #Country-Life {
+      background-image: url('https://cdn.discordapp.com/attachments/1078406420724199484/1099337773913215056/image.png');
+    }
+
+  
+
+
+    .title {
+      color:rgb(241, 16, 241);
+      text-align: center;
+      font-size: 25px;
+
+    }
+
+    .heading {
+      text-align: center;
+    
+      
+    }
+
+    .context {
+      margin:  auto;
+      font-size: 20px;
+      font-family: Georgia;
+    
+    }
+
+    
+
+    
+    
+  .copyright {
+    color: white;
+    text-align: center;
+   }
+  
+  
